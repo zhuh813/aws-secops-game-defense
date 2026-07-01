@@ -8,7 +8,7 @@
 
 ## 系統架構拓撲
 
-![AWS Architecture](雲端專題_架構圖.png)
+![AWS Architecture](Network Architecture.png)
 
 ## 核心功能展示流程 (Demo Steps)
 
