@@ -7,8 +7,8 @@
 - **解法**：部署 AWS 雲端原生監控，配合 CloudWatch Alarms 與本機自動化防禦腳本，在指標衝破閾值時，**1 秒內自動生成 iptables 剛性防禦規則**，實現秒級阻斷。
 
 ## 系統架構拓撲
-*(請將專題架構圖上傳至儲存庫中，並在此處引入圖片)*
-![AWS Architecture](image_fb225c.png)
+
+![AWS Architecture](雲端專題_架構圖.png)
 
 ## 核心功能展示流程 (Demo Steps)
 
